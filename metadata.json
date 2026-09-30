@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kids Adventure",
+  "description": "A colorful, interactive educational adventure game for children aged 5–12 featuring Math, English, General Knowledge, Memory Match, and Puzzles with stars and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
